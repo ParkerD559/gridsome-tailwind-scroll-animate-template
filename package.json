@@ -1,0 +1,15 @@
+{
+  "name": "gridsome-tailwind-scroll-animate-template",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "animate.css": "^3.7.2",
+    "gridsome": "^0.6.0",
+    "gridsome-plugin-tailwindcss": "^2.2.19",
+    "vue-visible-class": "^1.0.0"
+  }
+}
